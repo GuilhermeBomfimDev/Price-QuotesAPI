@@ -46,7 +46,7 @@ Saída:
 Cotação do dólar hoje: R$ 6,10
 Valor em Reais: R$ 610,00
 
-<![Exemplo do programa rodando](screenshot.png "Conversão Dólar para Real")
+![Exemplo do programa rodando](screenshot.png "Conversão Dólar para Real")
 
 ## 🛡️ Tratamento de Erros
 Verificação de entrada inválida para valores numéricos.
